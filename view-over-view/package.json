@@ -1,0 +1,17 @@
+{
+  "name": "view-over-view",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandr Gotovtsev",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.0",
+    "electron-builder": "^22.13.1"
+  }
+}
