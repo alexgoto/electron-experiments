@@ -1,0 +1,11 @@
+{
+    "name": "view-over-view-ext",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "With extension you can open view over view through inject page strategy",
+    "permissions": [
+
+    ],
+    "background": "background.js"
+}
